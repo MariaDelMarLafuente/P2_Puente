@@ -3,5 +3,6 @@ El objetivo de la práctica trata de garantizar una coordinación entre distinto
 
 La primera garantiza exclusión mutua y libre de deadlock, pero existe inanición: p2_conInanicion.py  
 
-La 
+La segunda garantiza exclusión mutua, libre de deadlock y libre de inanición: p2.py
 
+Finalmente, hemos añadido un pdf con las demostraciones necesarias para la comprobación de las anteriores condiciones: p2_dems.pdf
